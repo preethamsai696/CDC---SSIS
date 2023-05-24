@@ -5,3 +5,5 @@ This project is about developing an ETL Pipeline using SSIS, to capture the chan
 Below are some of the snapshots of developed ETL package and final result. 
 
 ![snap1](https://github.com/preethamsai696/CDC---SSIS/blob/master/snapshots/3.PNG)
+
+![snap2](https://github.com/preethamsai696/CDC---SSIS/blob/master/snapshots/4.PNG)
