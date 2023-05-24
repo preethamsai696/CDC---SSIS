@@ -11,3 +11,5 @@ Below are some of the snapshots of developed ETL package and final result.
 ![snap3](https://github.com/preethamsai696/CDC---SSIS/blob/master/snapshots/1.PNG)
 
 ![snap4](https://github.com/preethamsai696/CDC---SSIS/blob/master/snapshots/2.PNG)
+
+![snap5](https://github.com/preethamsai696/CDC---SSIS/blob/master/snapshots/5.PNG)
